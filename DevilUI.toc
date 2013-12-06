@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: DEVIL UI 5.4.1
+## Author: Devil
+## Version: 5.4.1.17538
+## Notes: Devil UI|r
+## eMail: devil.wow.uk@gmail.com
+## DefaultState: Enabled
+## SavedVariables: 
